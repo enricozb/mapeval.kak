@@ -23,5 +23,3 @@ define-command mapeval %{
 f()"
   }
 }
-
-map global normal + ': mapeval<ret>'
